@@ -1,0 +1,5 @@
+/venv/*
+/sample-data/sample_input.csv
+.DS_Store
+.idea
+test.py
